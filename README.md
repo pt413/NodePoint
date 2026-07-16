@@ -1,4 +1,4 @@
-# VectorShift DAG Validator
+# DAG Validator
 
 An interactive workflow builder and graph validation tool that enables users to visually design node-based pipelines and instantly verify whether the resulting graph forms a valid Directed Acyclic Graph (DAG).
 
